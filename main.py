@@ -1,11 +1,3 @@
-from fastapi import FastAPI , Path, UploadFile, File
-from typing import Optional
-from pydantic import BaseModel
-import shutil
-import uvicorn
-import pandas as pd
-import numpy as np
-
 
 # Crear instancia de la aplicación FastAPI
 app = FastAPI()
