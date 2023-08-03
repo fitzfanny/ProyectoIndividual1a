@@ -3,3 +3,10 @@ uvicorn
 pandas
 pydantic
 numpy
+async-lru
+beautifulsoup4
+uvicorn
+scikit-learn
+scipy
+matplotlib
+fuzzywuzzy
