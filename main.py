@@ -1,3 +1,5 @@
+from fastapi import FastAPI
+import pandas as pd
 
 # Crear instancia de la aplicación FastAPI
 app = FastAPI()
